@@ -35,7 +35,7 @@ Somos especializados no desenvolvimento de **infraestrutura online completa** pa
 
 ---
 
-## 💼 O que fazemos
+## O que fazemos
 
 - **Sites institucionais e sistemas web** sob medida
 - **Bots** para automação de processos e atendimento
