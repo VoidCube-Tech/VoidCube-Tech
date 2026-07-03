@@ -13,7 +13,7 @@
 
 ## Sobre nós
 
-Somos especializados no desenvolvimento de **infraestrutura online completa** para empresas — desde sites institucionais e sistemas web até bots automatizados e aplicativos mobile. Unimos performance, escalabilidade e boas práticas de engenharia para entregar soluções robustas e sob medida.
+Somos especializados no desenvolvimento de **infraestrutura online completa** para empresas desde sites institucionais e sistemas web até bots automatizados e aplicativos mobile. Unimos performance, escalabilidade e boas práticas de engenharia para entregar soluções robustas e sob medida.
 
 ---
 
@@ -29,9 +29,9 @@ Somos especializados no desenvolvimento de **infraestrutura online completa** pa
 
 </div>
 
-- **React + TypeScript** — interfaces web modernas, tipadas e performáticas
-- **Spring Boot + Java** — APIs robustas, escaláveis e seguras
-- **Kotlin + Jetpack Compose** — aplicativos mobile nativos e fluidos
+- **React + TypeScript** - interfaces web modernas, tipadas e performáticas
+- **Spring Boot + Java** - APIs robustas, escaláveis e seguras
+- **Kotlin + Jetpack Compose** - aplicativos mobile nativos e fluidos
 
 ---
 
