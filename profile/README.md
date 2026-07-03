@@ -54,5 +54,5 @@ Somos especializados no desenvolvimento de **infraestrutura online completa** pa
 - LinkedIn: [linkedin.com/company/placeholder](#)
 
 <div align="center">
-**Transformando ideias em infraestrutura digital.**
+Transformando ideias em infraestrutura digital.
 </div>
